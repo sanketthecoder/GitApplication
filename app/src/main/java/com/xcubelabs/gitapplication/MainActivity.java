@@ -14,8 +14,11 @@ import android.view.MenuItem;
 
 public class MainActivity extends AppCompatActivity {
 
-    //I am Writing this after first commit
-    //I want this changes to be in Branch1 Commit
+    //I am Writing this after 2nd  commit
+    //I want this changes to be in Branch2 Commit
+    //I am Writing this after 2nd commit
+    //I want this changes to be in Branch2 Commit
+    //Two times because we have branch2
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
