@@ -14,11 +14,7 @@ import android.view.MenuItem;
 
 public class MainActivity extends AppCompatActivity {
 
-    //I am Writing this after 2nd  commit
-    //I want this changes to be in Branch2 Commit
-    //I am Writing this after 2nd commit
-    //I want this changes to be in Branch2 Commit
-    //Two times because we have branch2
+    //I'll write nothing in Brnach3 Here Because it is a Crazy Branch
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
